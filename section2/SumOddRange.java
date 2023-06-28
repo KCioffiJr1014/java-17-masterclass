@@ -1,6 +1,6 @@
 package section2;
 
-/**
+/*********************************************************************************************************************************
  * SumOddRange Exercise Description:
     - Write a method called isOdd with an int parameter and call it number.
     - The method needs to return a boolean.
@@ -17,7 +17,7 @@ package section2;
     - Both methods needs to be defined as public static like we have been doing so far in the course.
     - Do not add a main method to solution code.
 
- */
+ *********************************************************************************************************************************/
 public class SumOddRange {
 
     public static int sumOdd(int start, int end) {
