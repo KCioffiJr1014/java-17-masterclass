@@ -1,3 +1,5 @@
+package section1;
+
 /***************************************************************************************************************************
  * Playing Cat Exercise Description:
     The cats spend most of the day playing. In particular, they play if the temperature is between 25 and 35 (inclusive).

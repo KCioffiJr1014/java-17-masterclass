@@ -1,3 +1,5 @@
+package section1;
+
 /***********************************************************************************************************************
  * Integer Equality Printer Exercise Description:
     - Write a method printEqual with 3 parameters of type int. The method should not return anything (void).

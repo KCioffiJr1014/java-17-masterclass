@@ -1,3 +1,5 @@
+package section1;
+
 /***********************************************************************************************************************
  * Equal Sum Checker Exercise
  * Write a method hasEqualSum with 3 parameters of type int.

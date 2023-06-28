@@ -1,3 +1,5 @@
+package section2;
+
 /***********************************************************************************************************************
  * Number In Word Exercise Description:
     - Write a method called printNumberInWord.
