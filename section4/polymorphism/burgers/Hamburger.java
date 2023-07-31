@@ -16,7 +16,6 @@ public class Hamburger {
     private double addition3Price;
     private double addition4Price;
 
-
     public Hamburger(String name, String meat, double price, String breadRollType) {
         this.name = name;
         this.meat = meat;
@@ -55,6 +54,4 @@ public class Hamburger {
             return price + addition1Price + addition2Price + addition3Price + addition4Price;
         }
     }
-
-
 }

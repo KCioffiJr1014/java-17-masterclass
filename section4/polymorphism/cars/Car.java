@@ -33,5 +33,4 @@ public class Car {
     public String brake() {
         return getClass().getSimpleName() + " -> brake()";
     }
-
 }

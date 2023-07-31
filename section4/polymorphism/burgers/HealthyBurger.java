@@ -7,7 +7,6 @@ public class HealthyBurger extends Hamburger {
     private double healthyExtra1Price;
     private double healthyExtra2Price;
 
-
     public HealthyBurger(String meat, double price) {
         super("Turkey", meat, price, "Wheat");
     }
